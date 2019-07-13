@@ -1,0 +1,5 @@
+﻿  Servidor.cpp
+c:\users\thiag\documents\servidor\servidor\servidor.cpp(349): warning C4477: 'snprintf' : format string '%05d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  c:\users\thiag\documents\servidor\servidor\servidor.cpp(349): note: consider using '%zd' in the format string
+  Servidor.vcxproj -> C:\Users\thiag\Documents\Servidor\x64\Debug\Servidor.exe
+  Servidor.vcxproj -> C:\Users\thiag\Documents\Servidor\x64\Debug\Servidor.pdb (Full PDB)
